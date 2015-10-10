@@ -634,7 +634,7 @@ $(<span class="pl-s"><span class="pl-pds">'</span>#items<span class="pl-pds">'</
   <span class="pl-s"><span class="pl-pds">'</span>Superman<span class="pl-pds">'</span></span>
 ];</pre></div>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-分号" class="anchor" href="#分号" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-semicolons">分号</a></h2>
@@ -723,7 +723,7 @@ $(<span class="pl-s"><span class="pl-pds">'</span>#items<span class="pl-pds">'</
 <span class="pl-c">// good</span>
 <span class="pl-k">var</span> hasAge <span class="pl-k">=</span> <span class="pl-k">!!</span>age;</pre></div>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-命名约定" class="anchor" href="#命名约定" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-naming-conventions">命名约定</a></h2>
