@@ -33,8 +33,7 @@ bar <span class="pl-k">=</span> <span class="pl-c1">9</span>;
 bar[<span class="pl-c1">0</span>] <span class="pl-k">=</span> <span class="pl-c1">9</span>;
 
 <span class="pl-en">console</span>.<span class="pl-c1">log</span>(foo[<span class="pl-c1">0</span>], bar[<span class="pl-c1">0</span>]); <span class="pl-c">// =&gt; 9, 9</span></pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-对象" class="anchor" href="#对象" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-objects">对象</a></h2>
@@ -47,7 +46,7 @@ bar[<span class="pl-c1">0</span>] <span class="pl-k">=</span> <span class="pl-c1
 
 <span class="pl-c">// good</span>
 <span class="pl-k">var</span> item <span class="pl-k">=</span> {};</pre></div></li>
-<li><p>不要使用保留字 <a href="https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Reserved_Words">reserved words</a> 作为键</p>
+<li><p>不要使用保留字 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Reserved_Words">reserved words</a> 作为键</p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-c">// bad</span>
 <span class="pl-k">var</span> superman <span class="pl-k">=</span> {
@@ -62,8 +61,7 @@ bar[<span class="pl-c1">0</span>] <span class="pl-k">=</span> <span class="pl-c1
   defaults<span class="pl-k">:</span> { clark<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>kent<span class="pl-pds">'</span></span> },
   hidden<span class="pl-k">:</span> <span class="pl-c1">true</span>
 };</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-数组" class="anchor" href="#数组" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-arrays">数组</a></h2>
@@ -86,7 +84,7 @@ someStack[someStack.<span class="pl-c1">length</span>] <span class="pl-k">=</spa
 
 <span class="pl-c">// good</span>
 someStack.<span class="pl-c1">push</span>(<span class="pl-s"><span class="pl-pds">'</span>abracadabra<span class="pl-pds">'</span></span>);</pre></div></li>
-<li><p>当你需要拷贝数组时使用slice. <a href="http://jsperf.com/converting-arguments-to-an-array/7">jsPerf</a></p>
+<li><p>当你需要拷贝数组时使用slice. <a target="_blank" href="http://jsperf.com/converting-arguments-to-an-array/7">jsPerf</a></p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-k">var</span> len <span class="pl-k">=</span> items.<span class="pl-c1">length</span>,
     itemsCopy <span class="pl-k">=</span> [],
@@ -105,8 +103,7 @@ itemsCopy <span class="pl-k">=</span> items.<span class="pl-c1">slice</span>();<
   <span class="pl-k">var</span> args <span class="pl-k">=</span> <span class="pl-c1">Array</span>.<span class="pl-c1">prototype</span>.slice.<span class="pl-c1">call</span>(arguments);
   ...
 }</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-字符串" class="anchor" href="#字符串" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-strings">字符串</a></h2>
@@ -237,8 +234,7 @@ length <span class="pl-k">=</span> messages.<span class="pl-c1">length</span>;
 <span class="pl-k">function</span> <span class="pl-en">yup</span>(<span class="pl-smi">name</span>, <span class="pl-smi">options</span>, <span class="pl-smi">args</span>) {
   <span class="pl-c">// ...stuff...</span>
 }</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-属性" class="anchor" href="#属性" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-properties">属性</a></h2>
@@ -428,8 +424,7 @@ superPower <span class="pl-k">=</span> <span class="pl-k">new</span> <span class
 <span class="pl-k">function</span>() {
   <span class="pl-k">return</span> <span class="pl-c1">false</span>;
 }</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-注释" class="anchor" href="#注释" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-comments">注释</a></h2>
@@ -665,8 +660,7 @@ $(<span class="pl-s"><span class="pl-pds">'</span>#items<span class="pl-pds">'</
   <span class="pl-k">var</span> name <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Skywalker<span class="pl-pds">'</span></span>;
   <span class="pl-k">return</span> name;
 })();</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-类型转换" class="anchor" href="#类型转换" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-type-coercion">类型转换</a></h2>
@@ -863,8 +857,7 @@ dragon.setAge(<span class="pl-c1">25</span>);</pre></div></li>
 <span class="pl-c1">Jedi</span>.<span class="pl-c1">prototype</span>.<span class="pl-en">get</span> <span class="pl-k">=</span> <span class="pl-k">function</span>(<span class="pl-smi">key</span>) {
   <span class="pl-k">return</span> <span class="pl-v">this</span>[key];
 };</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-构造器" class="anchor" href="#构造器" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-constructors">构造器</a></h2>
@@ -940,8 +933,7 @@ luke.jump()
 <span class="pl-c1">Jedi</span>.<span class="pl-c1">prototype</span>.<span class="pl-en">toString</span> <span class="pl-k">=</span> <span class="pl-k">function</span> <span class="pl-en">toString</span>() {
   <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">'</span>Jedi - <span class="pl-pds">'</span></span> <span class="pl-k">+</span> <span class="pl-v">this</span>.getName();
 };</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-事件" class="anchor" href="#事件" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-events">事件</a></h2>
@@ -968,8 +960,7 @@ $(<span class="pl-v">this</span>).trigger(<span class="pl-s"><span class="pl-pds
 $(<span class="pl-v">this</span>).on(<span class="pl-s"><span class="pl-pds">'</span>listingUpdated<span class="pl-pds">'</span></span>, <span class="pl-k">function</span>(<span class="pl-smi">e</span>, <span class="pl-smi">data</span>) {
   <span class="pl-c">// do something with data.listingId</span>
 });</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-模块" class="anchor" href="#模块" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-modules">模块</a></h2>
@@ -998,8 +989,7 @@ $(<span class="pl-v">this</span>).on(<span class="pl-s"><span class="pl-pds">'</
 
   <span class="pl-c1">global</span>.FancyInput <span class="pl-k">=</span> FancyInput;
 }(<span class="pl-v">this</span>);</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-jquery" class="anchor" href="#jquery" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-jquery">jQuery</a></h2>
@@ -1049,16 +1039,14 @@ $sidebar.<span class="pl-c1">find</span>(<span class="pl-s"><span class="pl-pds"
 
 <span class="pl-c">// good (faster)</span>
 $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span class="pl-s"><span class="pl-pds">'</span>ul<span class="pl-pds">'</span></span>);</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-ecmascript-5兼容性" class="anchor" href="#ecmascript-5兼容性" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-es5">ECMAScript 5兼容性</a></h2>
 
 <ul>
 <li><p>参考<a href="https://twitter.com/kangax/">Kangax</a>的 ES5 <a href="http://kangax.github.com/es5-compat-table/">compatibility table</a></p>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-性能" class="anchor" href="#性能" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-performance">性能</a></h2>
@@ -1071,9 +1059,7 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <li><a href="http://jsperf.com/jquery-find-vs-context-sel/13">jQuery Find vs Context, Selector</a></li>
 <li><a href="http://jsperf.com/innerhtml-vs-textcontent-for-script-text">innerHTML vs textContent for script text</a></li>
 <li><a href="http://jsperf.com/ya-string-concat">Long String Concatenation</a></li>
-<li><p>Loading...</p>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+<li><p>Loading...</p></li>
 </ul>
 
 <h2><a id="user-content-资源" class="anchor" href="#资源" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-resources">资源</a></h2>
@@ -1134,7 +1120,7 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <li><a href="http://dustindiaz.com/">Dustin Diaz</a></li>
 <li><p><a href="http://net.tutsplus.com/?s=javascript">nettuts</a></p>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-哪些人在使用" class="anchor" href="#哪些人在使用" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-in-the-wild">哪些人在使用</a></h2>
@@ -1207,7 +1193,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p>
 
-<h1><a id="" class="anchor" href="#" aria-hidden="true"><span class="octicon octicon-link"></span></a>};</h1>
+<h1><a id="" class="anchor" href="#" aria-hidden="true"><span class="octicon octicon-link"></span></a></h1>
 </article>
