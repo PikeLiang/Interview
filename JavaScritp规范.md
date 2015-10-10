@@ -1072,22 +1072,25 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <p><strong>Read This</strong></p>
 
 <ul>
-<li><a href="http://es5.github.com/">Annotated ECMAScript 5.1</a></li>
+<li><a target="_blank" href="http://es5.github.com/">Annotated ECMAScript 5.1</a></li>
 </ul>
 
 <p><strong>其它规范</strong></p>
 
 <ul>
-<li><a href="http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml">Google JavaScript Style Guide</a></li>
-<li><a href="http://docs.jquery.com/JQuery_Core_Style_Guidelines">jQuery Core Style Guidelines</a></li>
-<li><a href="https://github.com/rwldrn/idiomatic.js/">Principles of Writing Consistent, Idiomatic JavaScript</a></li>
+<li><a target="_blank" href="http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml">Google JavaScript Style Guide</a></li>
+
+<li><a target="_blank" href="http://docs.jquery.com/JQuery_Core_Style_Guidelines">jQuery Core Style Guidelines</a></li>
+
+<li><a target="_blank" href="https://github.com/rwldrn/idiomatic.js/">Principles of Writing Consistent, Idiomatic JavaScript</a></li>
 </ul>
 
 <p><strong>其它风格</strong></p>
 
 <ul>
-<li><a href="https://gist.github.com/4135065">Naming this in nested functions</a> - Christian Johansen</li>
-<li><a href="https://github.com/airbnb/javascript/issues/52">Conditional Callbacks</a></li>
+<li><a target="_blank" href="https://gist.github.com/4135065">Naming this in nested functions</a> - Christian Johansen</li>
+
+<li><a target="_blank" href="https://github.com/airbnb/javascript/issues/52">Conditional Callbacks</a></li>
 </ul>
 
 <p><strong>阅读更多</strong></p>
