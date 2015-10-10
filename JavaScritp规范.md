@@ -252,8 +252,7 @@ length <span class="pl-k">=</span> messages.<span class="pl-c1">length</span>;
 }
 
 <span class="pl-k">var</span> isJedi <span class="pl-k">=</span> getProp(<span class="pl-s"><span class="pl-pds">'</span>jedi<span class="pl-pds">'</span></span>);</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-变量" class="anchor" href="#变量" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-variables">变量</a></h2>
@@ -395,9 +394,9 @@ superPower <span class="pl-k">=</span> <span class="pl-k">new</span> <span class
 <span class="pl-k">if</span> (collection.<span class="pl-c1">length</span>) {
   <span class="pl-c">// ...stuff...</span>
 }</pre></div></li>
-<li><p>阅读 <a href="http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108">Truth Equality and JavaScript</a> 了解更多</p>
+<li><p>阅读 <a target="_blank" href="http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108">Truth Equality and JavaScript</a> 了解更多</p>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-块" class="anchor" href="#块" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-blocks">块</a></h2>
