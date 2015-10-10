@@ -1102,31 +1102,38 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <p><strong>书籍</strong></p>
 
 <ul>
-<li><a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">JavaScript: The Good Parts</a> - Douglas Crockford</li>
-<li><a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752">JavaScript Patterns</a> - Stoyan Stefanov</li>
-<li><a href="http://www.amazon.com/JavaScript-Design-Patterns-Recipes-Problem-Solution/dp/159059908X">Pro JavaScript Design Patterns</a>  - Ross Harmes and Dustin Diaz</li>
-<li><a href="http://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309">High Performance Web Sites: Essential Knowledge for Front-End Engineers</a> - Steve Souders</li>
-<li><a href="http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680">Maintainable JavaScript</a> - Nicholas C. Zakas</li>
-<li><a href="http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X">JavaScript Web Applications</a> - Alex MacCaw</li>
-<li><a href="http://www.amazon.com/Pro-JavaScript-Techniques-John-Resig/dp/1590597273">Pro JavaScript Techniques</a> - John Resig</li>
-<li><a href="http://www.amazon.com/Smashing-Node-js-JavaScript-Everywhere-Magazine/dp/1119962595">Smashing Node.js: JavaScript Everywhere</a> - Guillermo Rauch</li>
+<li><a target="_blank" href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">JavaScript: The Good Parts</a> - Douglas Crockford</li>
+
+<li><a target="_blank" href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752">JavaScript Patterns</a> - Stoyan Stefanov</li>
+
+<li><a target="_blank" href="http://www.amazon.com/JavaScript-Design-Patterns-Recipes-Problem-Solution/dp/159059908X">Pro JavaScript Design Patterns</a>  - Ross Harmes and Dustin Diaz</li>
+
+<li><a target="_blank" href="http://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309">High Performance Web Sites: Essential Knowledge for Front-End Engineers</a> - Steve Souders</li>
+
+<li><a target="_blank" href="http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680">Maintainable JavaScript</a> - Nicholas C. Zakas</li>
+
+<li><a target="_blank" href="http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X">JavaScript Web Applications</a> - Alex MacCaw</li>
+
+<li><a target="_blank" href="http://www.amazon.com/Pro-JavaScript-Techniques-John-Resig/dp/1590597273">Pro JavaScript Techniques</a> - John Resig</li>
+
+<li><a target="_blank" href="http://www.amazon.com/Smashing-Node-js-JavaScript-Everywhere-Magazine/dp/1119962595">Smashing Node.js: JavaScript Everywhere</a> - Guillermo Rauch</li>
 </ul>
 
 <p><strong>博客</strong></p>
 
 <ul>
-<li><a href="http://adamlu.com/">Adam Lu</a></li>
-<li><a href="http://dailyjs.com/">DailyJS</a></li>
-<li><a href="http://javascriptweekly.com/">JavaScript Weekly</a></li>
-<li><a href="http://javascriptweblog.wordpress.com/">JavaScript, JavaScript...</a></li>
-<li><a href="http://weblog.bocoup.com/">Bocoup Weblog</a></li>
-<li><a href="http://www.adequatelygood.com/">Adequately Good</a></li>
-<li><a href="http://www.nczonline.net/">NCZOnline</a></li>
-<li><a href="http://perfectionkills.com/">Perfection Kills</a></li>
-<li><a href="http://benalman.com/">Ben Alman</a></li>
-<li><a href="http://dmitry.baranovskiy.com/">Dmitry Baranovskiy</a></li>
-<li><a href="http://dustindiaz.com/">Dustin Diaz</a></li>
-<li><p><a href="http://net.tutsplus.com/?s=javascript">nettuts</a></p>
+<li><a target="_blank" href="http://adamlu.com/">Adam Lu</a></li>
+<li><a target="_blank" href="http://dailyjs.com/">DailyJS</a></li>
+<li><a target="_blank" href="http://javascriptweekly.com/">JavaScript Weekly</a></li>
+<li><a target="_blank" href="http://javascriptweblog.wordpress.com/">JavaScript, JavaScript...</a></li>
+<li><a target="_blank" href="http://weblog.bocoup.com/">Bocoup Weblog</a></li>
+<li><a target="_blank" href="http://www.adequatelygood.com/">Adequately Good</a></li>
+<li><a target="_blank" href="http://www.nczonline.net/">NCZOnline</a></li>
+<li><a target="_blank" href="http://perfectionkills.com/">Perfection Kills</a></li>
+<li><a target="_blank" href="http://benalman.com/">Ben Alman</a></li>
+<li><a target="_blank" href="http://dmitry.baranovskiy.com/">Dmitry Baranovskiy</a></li>
+<li><a target="_blank" href="http://dustindiaz.com/">Dustin Diaz</a></li>
+<li><p><a target="_blank" href="http://net.tutsplus.com/?s=javascript">nettuts</a></p>
 
 </li>
 </ul>
@@ -1136,20 +1143,34 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <p>这是一些使用这个风格规范的组织，给我们发pull request或打开一个问题，我们会把你加到列表中。</p>
 
 <ul>
-<li><strong>Airbnb</strong>: <a href="https://github.com/airbnb/javascript">airbnb/javascript</a></li>
+<li><strong>Airbnb</strong>: <a target="_blank" href="https://github.com/airbnb/javascript">airbnb/javascript</a></li>
+
 <li><strong>American Insitutes for Research</strong>: <a href="https://github.com/AIRAST/javascript">AIRAST/javascript</a></li>
+
 <li><strong>ExactTarget</strong>: <a href="https://github.com/ExactTarget/javascript">ExactTarget/javascript</a></li>
+
 <li><strong>GeneralElectric</strong>: <a href="https://github.com/GeneralElectric/javascript">GeneralElectric/javascript</a></li>
+
 <li><strong>GoodData</strong>: <a href="https://github.com/gooddata/gdc-js-style">gooddata/gdc-js-style</a></li>
+
 <li><strong>How About We</strong>: <a href="https://github.com/howaboutwe/javascript">howaboutwe/javascript</a></li>
+
 <li><strong>MinnPost</strong>: <a href="https://github.com/MinnPost/javascript">MinnPost/javascript</a></li>
+
 <li><strong>ModCloth</strong>: <a href="https://github.com/modcloth/javascript">modcloth/javascript</a></li>
+
 <li><strong>National Geographic</strong>: <a href="https://github.com/natgeo/javascript">natgeo/javascript</a></li>
+
 <li><strong>National Park Service</strong>: <a href="https://github.com/nationalparkservice/javascript">nationalparkservice/javascript</a></li>
+
 <li><strong>Razorfish</strong>: <a href="https://github.com/razorfish/javascript-style-guide">razorfish/javascript-style-guide</a></li>
+
 <li><strong>Shutterfly</strong>: <a href="https://github.com/shutterfly/javascript">shutterfly/javascript</a></li>
+
 <li><strong>Userify</strong>: <a href="https://github.com/userify/javascript">userify/javascript</a></li>
+
 <li><strong>Zillow</strong>: <a href="https://github.com/zillow/javascript">zillow/javascript</a></li>
+
 <li><strong>ZocDoc</strong>: <a href="https://github.com/ZocDoc/javascript">ZocDoc/javascript</a></li>
 </ul>
 
