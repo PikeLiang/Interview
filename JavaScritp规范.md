@@ -577,7 +577,7 @@ $(<span class="pl-s"><span class="pl-pds">'</span>#items<span class="pl-pds">'</
     .attr(<span class="pl-s"><span class="pl-pds">'</span>transform<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>translate(<span class="pl-pds">'</span></span> <span class="pl-k">+</span> (radius <span class="pl-k">+</span> margin) <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>,<span class="pl-pds">'</span></span> <span class="pl-k">+</span> (radius <span class="pl-k">+</span> margin) <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>)<span class="pl-pds">'</span></span>)
     .<span class="pl-c1">call</span>(tron.led);</pre></div>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-逗号" class="anchor" href="#逗号" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-commas">逗号</a></h2>
