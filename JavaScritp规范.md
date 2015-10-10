@@ -809,8 +809,7 @@ $(<span class="pl-s"><span class="pl-pds">'</span>#items<span class="pl-pds">'</
     <span class="pl-en">console</span>.<span class="pl-c1">log</span>(_this);
   };
 }</pre></div>
-
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-存取器" class="anchor" href="#存取器" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-accessors">存取器</a></h2>
@@ -1018,7 +1017,7 @@ $(<span class="pl-v">this</span>).on(<span class="pl-s"><span class="pl-pds">'</
     <span class="pl-s"><span class="pl-pds">'</span>background-color<span class="pl-pds">'</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">'</span>pink<span class="pl-pds">'</span></span>
   });
 }</pre></div></li>
-<li><p>对DOM查询使用级联的 <code>$('.sidebar ul')</code> 或 <code>$('.sidebar ul')</code>，<a href="http://jsperf.com/jquery-find-vs-context-sel/16">jsPerf</a></p></li>
+<li><p>对DOM查询使用级联的 <code>$('.sidebar ul')</code> 或 <code>$('.sidebar ul')</code>，<a target="_blank" href="http://jsperf.com/jquery-find-vs-context-sel/16">jsPerf</a></p></li>
 <li><p>对有作用域的jQuery对象查询使用 <code>find</code></p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-c">// bad</span>
@@ -1044,20 +1043,27 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <h2><a id="user-content-ecmascript-5兼容性" class="anchor" href="#ecmascript-5兼容性" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-es5">ECMAScript 5兼容性</a></h2>
 
 <ul>
-<li><p>参考<a href="https://twitter.com/kangax/">Kangax</a>的 ES5 <a href="http://kangax.github.com/es5-compat-table/">compatibility table</a></p>
+<li><p>参考<a target="_blank" href="https://twitter.com/kangax/">Kangax</a>的 ES5 <a href="http://kangax.github.com/es5-compat-table/" target="_blank">compatibility table</a></p>
 </li>
 </ul>
 
 <h2><a id="user-content-性能" class="anchor" href="#性能" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-performance">性能</a></h2>
 
 <ul>
-<li><a href="http://kellegous.com/j/2013/01/26/layout-performance/">On Layout &amp; Web Performance</a></li>
-<li><a href="http://jsperf.com/string-vs-array-concat/2">String vs Array Concat</a></li>
-<li><a href="http://jsperf.com/try-catch-in-loop-cost">Try/Catch Cost In a Loop</a></li>
-<li><a href="http://jsperf.com/bang-function">Bang Function</a></li>
-<li><a href="http://jsperf.com/jquery-find-vs-context-sel/13">jQuery Find vs Context, Selector</a></li>
-<li><a href="http://jsperf.com/innerhtml-vs-textcontent-for-script-text">innerHTML vs textContent for script text</a></li>
-<li><a href="http://jsperf.com/ya-string-concat">Long String Concatenation</a></li>
+<li><a target="_blank" href="http://kellegous.com/j/2013/01/26/layout-performance/">On Layout &amp; Web Performance</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/string-vs-array-concat/2">String vs Array Concat</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/try-catch-in-loop-cost">Try/Catch Cost In a Loop</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/bang-function">Bang Function</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/jquery-find-vs-context-sel/13">jQuery Find vs Context, Selector</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/innerhtml-vs-textcontent-for-script-text">innerHTML vs textContent for script text</a></li>
+
+<li><a target="_blank" href="http://jsperf.com/ya-string-concat">Long String Concatenation</a></li>
+
 <li><p>Loading...</p></li>
 </ul>
 
