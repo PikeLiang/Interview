@@ -123,7 +123,7 @@ itemsCopy <span class="pl-k">=</span> items.<span class="pl-c1">slice</span>();<
 <span class="pl-c">// good</span>
 <span class="pl-k">var</span> fullName <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Bob <span class="pl-pds">'</span></span> <span class="pl-k">+</span> <span class="pl-v">this</span>.lastName;</pre></div></li>
 <li><p>超过80个字符的字符串应该使用字符串连接换行</p></li>
-<li><p>注: 如果过度使用，长字符串连接可能会对性能有影响. <a href="http://jsperf.com/ya-string-concat">jsPerf</a> &amp; <a href="https://github.com/airbnb/javascript/issues/40">Discussion</a></p>
+<li><p>注: 如果过度使用，长字符串连接可能会对性能有影响. <a>jsPerf</a> &amp; <a >Discussion</a></p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-c">// bad</span>
 <span class="pl-k">var</span> errorMessage <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>This is a super long error that was thrown because of Batman. When you stop to think about how Batman had anything to do with this, you would get nowhere fast.<span class="pl-pds">'</span></span>;
@@ -144,7 +144,7 @@ itemsCopy <span class="pl-k">=</span> items.<span class="pl-c1">slice</span>();<
   <span class="pl-s"><span class="pl-pds">'</span>how Batman had anything to do <span class="pl-pds">'</span></span> <span class="pl-k">+</span>
   <span class="pl-s"><span class="pl-pds">'</span>with this, you would get nowhere <span class="pl-pds">'</span></span> <span class="pl-k">+</span>
   <span class="pl-s"><span class="pl-pds">'</span>fast.<span class="pl-pds">'</span></span>;</pre></div></li>
-<li><p>编程时使用join而不是字符串连接来构建字符串，特别是IE: <a href="http://jsperf.com/string-vs-array-concat/2">jsPerf</a>.</p>
+<li><p>编程时使用join而不是字符串连接来构建字符串，特别是IE: <a>jsPerf</a>.</p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-k">var</span> items,
     messages,
@@ -185,7 +185,7 @@ length <span class="pl-k">=</span> messages.<span class="pl-c1">length</span>;
   <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">'</span>&lt;ul&gt;&lt;li&gt;<span class="pl-pds">'</span></span> <span class="pl-k">+</span> items.<span class="pl-c1">join</span>(<span class="pl-s"><span class="pl-pds">'</span>&lt;/li&gt;&lt;li&gt;<span class="pl-pds">'</span></span>) <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">'</span>&lt;/li&gt;&lt;/ul&gt;<span class="pl-pds">'</span></span>;
 }</pre></div>
 
-<p><strong><a href="#TOC">[⬆]</a></strong></p></li>
+</li>
 </ul>
 
 <h2><a id="user-content-函数" class="anchor" href="#函数" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-functions">函数</a></h2>
@@ -208,7 +208,7 @@ length <span class="pl-k">=</span> messages.<span class="pl-c1">length</span>;
   <span class="pl-en">console</span>.<span class="pl-c1">log</span>(<span class="pl-s"><span class="pl-pds">'</span>Welcome to the Internet. Please follow me.<span class="pl-pds">'</span></span>);
 })();</pre></div></li>
 <li><p>绝对不要在一个非函数块里声明一个函数，把那个函数赋给一个变量。浏览器允许你这么做，但是它们解析不同。</p></li>
-<li><p><strong>注:</strong> ECMA-262定义把<code>块</code>定义为一组语句，函数声明不是一个语句。<a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#page=97">阅读ECMA-262对这个问题的说明</a>.</p>
+<li><p><strong>注:</strong> ECMA-262定义把<code>块</code>定义为一组语句，函数声明不是一个语句。<a href="http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf#page=97" target="_blank">阅读ECMA-262对这个问题的说明</a>.</p>
 
 <div class="highlight highlight-source-js"><pre><span class="pl-c">// bad</span>
 <span class="pl-k">if</span> (currentUser) {
