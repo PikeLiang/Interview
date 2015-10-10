@@ -1145,33 +1145,33 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <ul>
 <li><strong>Airbnb</strong>: <a target="_blank" href="https://github.com/airbnb/javascript">airbnb/javascript</a></li>
 
-<li><strong>American Insitutes for Research</strong>: <a href="https://github.com/AIRAST/javascript">AIRAST/javascript</a></li>
+<li><strong>American Insitutes for Research</strong>: <a target="_blank" href="https://github.com/AIRAST/javascript">AIRAST/javascript</a></li>
 
-<li><strong>ExactTarget</strong>: <a href="https://github.com/ExactTarget/javascript">ExactTarget/javascript</a></li>
+<li><strong>ExactTarget</strong>: <a target="_blank" href="https://github.com/ExactTarget/javascript">ExactTarget/javascript</a></li>
 
-<li><strong>GeneralElectric</strong>: <a href="https://github.com/GeneralElectric/javascript">GeneralElectric/javascript</a></li>
+<li><strong>GeneralElectric</strong>: <a target="_blank" href="https://github.com/GeneralElectric/javascript">GeneralElectric/javascript</a></li>
 
-<li><strong>GoodData</strong>: <a href="https://github.com/gooddata/gdc-js-style">gooddata/gdc-js-style</a></li>
+<li><strong>GoodData</strong>: <a target="_blank" href="https://github.com/gooddata/gdc-js-style">gooddata/gdc-js-style</a></li>
 
-<li><strong>How About We</strong>: <a href="https://github.com/howaboutwe/javascript">howaboutwe/javascript</a></li>
+<li><strong>How About We</strong>: <a target="_blank" href="https://github.com/howaboutwe/javascript">howaboutwe/javascript</a></li>
 
-<li><strong>MinnPost</strong>: <a href="https://github.com/MinnPost/javascript">MinnPost/javascript</a></li>
+<li><strong>MinnPost</strong>: <a target="_blank" href="https://github.com/MinnPost/javascript">MinnPost/javascript</a></li>
 
-<li><strong>ModCloth</strong>: <a href="https://github.com/modcloth/javascript">modcloth/javascript</a></li>
+<li><strong>ModCloth</strong>: <a target="_blank" href="https://github.com/modcloth/javascript">modcloth/javascript</a></li>
 
-<li><strong>National Geographic</strong>: <a href="https://github.com/natgeo/javascript">natgeo/javascript</a></li>
+<li><strong>National Geographic</strong>: <a target="_blank" href="https://github.com/natgeo/javascript">natgeo/javascript</a></li>
 
-<li><strong>National Park Service</strong>: <a href="https://github.com/nationalparkservice/javascript">nationalparkservice/javascript</a></li>
+<li><strong>National Park Service</strong>: <a target="_blank" href="https://github.com/nationalparkservice/javascript">nationalparkservice/javascript</a></li>
 
-<li><strong>Razorfish</strong>: <a href="https://github.com/razorfish/javascript-style-guide">razorfish/javascript-style-guide</a></li>
+<li><strong>Razorfish</strong>: <a target="_blank" href="https://github.com/razorfish/javascript-style-guide">razorfish/javascript-style-guide</a></li>
 
-<li><strong>Shutterfly</strong>: <a href="https://github.com/shutterfly/javascript">shutterfly/javascript</a></li>
+<li><strong>Shutterfly</strong>: <a target="_blank" href="https://github.com/shutterfly/javascript">shutterfly/javascript</a></li>
 
-<li><strong>Userify</strong>: <a href="https://github.com/userify/javascript">userify/javascript</a></li>
+<li><strong>Userify</strong>: <a target="_blank" href="https://github.com/userify/javascript">userify/javascript</a></li>
 
-<li><strong>Zillow</strong>: <a href="https://github.com/zillow/javascript">zillow/javascript</a></li>
+<li><strong>Zillow</strong>: <a target="_blank" href="https://github.com/zillow/javascript">zillow/javascript</a></li>
 
-<li><strong>ZocDoc</strong>: <a href="https://github.com/ZocDoc/javascript">ZocDoc/javascript</a></li>
+<li><strong>ZocDoc</strong>: <a target="_blank" href="https://github.com/ZocDoc/javascript">ZocDoc/javascript</a></li>
 </ul>
 
 <h2><a id="user-content-翻译" class="anchor" href="#翻译" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-translation">翻译</a></h2>
@@ -1179,29 +1179,32 @@ $($sidebar[<span class="pl-c1">0</span>]).<span class="pl-c1">find</span>(<span 
 <p>这个风格规范也有其它语言版本：</p>
 
 <ul>
-<li><img class="emoji" title=":de:" alt=":de:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" height="20" width="20" align="absmiddle"> <strong>German</strong>: <a href="https://github.com/timofurrer/javascript-style-guide">timofurrer/javascript-style-guide</a></li>
-<li><img class="emoji" title=":jp:" alt=":jp:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f5.png" height="20" width="20" align="absmiddle"> <strong>Japanese</strong>: <a href="https://github.com/mitsuruog/javacript-style-guide">mitsuruog/javacript-style-guide</a></li>
-<li>:br: <strong>Portuguese</strong>: <a href="https://github.com/armoucar/javascript-style-guide">armoucar/javascript-style-guide</a></li>
-<li><img class="emoji" title=":cn:" alt=":cn:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" height="20" width="20" align="absmiddle"> <strong>Chinese</strong>: <a href="https://github.com/adamlu/javascript-style-guide">adamlu/javascript-style-guide</a></li>
+<li><img class="emoji" title=":de:" alt=":de:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" height="20" width="20" align="absmiddle"> <strong>German</strong>: <a target="_blank" href="https://github.com/timofurrer/javascript-style-guide">timofurrer/javascript-style-guide</a></li>
+
+<li><img class="emoji" title=":jp:" alt=":jp:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ef-1f1f5.png" height="20" width="20" align="absmiddle"> <strong>Japanese</strong>: <a target="_blank" href="https://github.com/mitsuruog/javacript-style-guide">mitsuruog/javacript-style-guide</a></li>
+
+<li>:br: <strong>Portuguese</strong>: <a target="_blank" href="https://github.com/armoucar/javascript-style-guide">armoucar/javascript-style-guide</a></li>
+
+<li><img class="emoji" title=":cn:" alt=":cn:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" height="20" width="20" align="absmiddle"> <strong>Chinese</strong>: <a target="_blank" href="https://github.com/adamlu/javascript-style-guide">adamlu/javascript-style-guide</a></li>
 </ul>
 
 <h2><a id="user-content-javascript风格指南" class="anchor" href="#javascript风格指南" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-guide-guide">JavaScript风格指南</a></h2>
 
 <ul>
-<li><a href="https://github.com/airbnb/javascript/wiki/The-JavaScript-Style-Guide-Guide">Reference</a></li>
+<li><a target="_blank" href="https://github.com/airbnb/javascript/wiki/The-JavaScript-Style-Guide-Guide">Reference</a></li>
 </ul>
 
 <h2><a id="user-content-贡献者" class="anchor" href="#贡献者" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-authors">贡献者</a></h2>
 
 <ul>
-<li><a href="https://github.com/airbnb/javascript/graphs/contributors">View Contributors</a></li>
+<li><a target="_blank" href="https://github.com/airbnb/javascript/graphs/contributors">View Contributors</a></li>
 </ul>
 
 <h2><a id="user-content-许可" class="anchor" href="#许可" aria-hidden="true"><span class="octicon octicon-link"></span></a><a name="user-content-license">许可</a></h2>
 
 <p>(The MIT License)</p>
 
-<p>Copyright (c) 2012 Airbnb</p>
+<p>Copyright (c) 2015 LiangSenzhi</p>
 
 <p>Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
